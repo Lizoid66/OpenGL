@@ -1,0 +1,5 @@
+﻿  prepShader.cpp
+C:\Users\mattc\GitHub\School\OpenGL\Lab1Project\OpenGLGlutGlfwShaderTemplate\prepShader.cpp(16,19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  week1-1-Triangles-Animation.cpp
+  Generating Code...
+  OpenGLGlutGlfwShaderTemplate.vcxproj -> C:\Users\mattc\GitHub\School\OpenGL\Lab1Project\x64\Debug\OpenGLGlutGlfwShaderTemplate.exe
